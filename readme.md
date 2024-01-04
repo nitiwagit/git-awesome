@@ -1,1 +1,1 @@
-Hellow bootcamp2-2 from feature/iss-5
+Hellow bootcamp2 from feature/iss-6
